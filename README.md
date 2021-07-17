@@ -5,3 +5,8 @@ to predict the dependent variable (Scores) and further used this regression mode
 9.25 hrs/ day. 
 The model evaluated with Goodness of Fitness - R2, MSE 
 Dataset:- http://bit.ly/w-dat
+
+
+TASK 2 : Prediction using Unsupervised ML
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+Dataset: https://bit.ly/3kXTdox
