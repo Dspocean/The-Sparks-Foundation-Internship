@@ -10,3 +10,12 @@ Dataset:- http://bit.ly/w-dat
 TASK 2 : Prediction using Unsupervised ML
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 Dataset: https://bit.ly/3kXTdox
+
+TASK 3 : Exploratory Data Analysis Retail
+● Perform ‘Exploratory Data Analysis’ on given dataset ‘SampleSuperstore’.
+
+● As a business manager, try to find out the weak areas where you can 
+  work to make more profit. 
+  
+● What all business problems you can derive by exploring the data?
+Dataset:: https://bit.ly/3i4rbWl
